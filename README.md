@@ -1,9 +1,8 @@
 <p align="center">
   <img src="cute.png"/>
 </p>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F78C6C&center=true&vCenter=true&width=435&lines=Hello+there!;Welcome+to+Alchemy+of+Insights!!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F78C6C&center=true&vCenter=true&width=500&lines=Hello+all!!;Welcome+to+Alchemy+of+Insights!!" />
 </p>
 
 
